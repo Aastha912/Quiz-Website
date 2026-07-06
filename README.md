@@ -17,8 +17,8 @@ https://framerusercontent.com/assets/mtKin5wrslXAzLubBOwCcwNHDM.mp4
 
 ## Screenshots
 
-<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/787b8191-7445-40fc-a2aa-14659a627fff" />
-<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/071cfef2-5c5e-472e-a85d-e9ec26da71d0" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/787b8191-7445-40fc-a2aa-14659a627fff" />
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/071cfef2-5c5e-472e-a85d-e9ec26da71d0" />
 
 ## Tech stack
 
